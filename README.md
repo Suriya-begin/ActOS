@@ -743,4 +743,73 @@ ActOS
 ├── Vision         ⚪ Planned
 └── Cloud          ⚪ Planned
 
+🤝 Contributing
+
+Contributions, ideas, experiments, and discussions are welcome.
+
+Before contributing:
+
+Fork the repository
+Create a feature branch
+Make your changes
+Test your implementation
+Open a pull request
+
+Example:
+
+git checkout -b feature/voice-intent-engine
+
+git add .
+
+git commit -m "feat: add voice intent engine"
+
+git push origin feature/voice-intent-engine
+🔒 Responsible Development
+
+ActOS is intended to automate tasks on systems that the user is authorized to control.
+
+Automation should respect:
+
+application policies
+website terms
+user privacy
+authentication boundaries
+security controls
+third-party data protection
+
+ActOS should not be designed to bypass authentication, access unauthorized accounts, or perform actions without appropriate user authorization.
+
+📚 Documentation
+
+Project documentation will be maintained under:
+
+docs/
+
+Planned documentation:
+
+docs/
+├── architecture/
+├── api/
+├── ai/
+├── voice/
+├── automation/
+├── security/
+├── database/
+└── deployment/
+📄 License
+
+This project is currently under development.
+
+License information will be added as the project reaches its public release stage.
+
+👨‍💻 Author
+
+Suriya K S
+
+Computer and Communication Engineering
+
+ActOS — AI Voice Operating System
+
+Speak naturally. Act everywhere.
+
 ActOS is currently an active research and development project. Some capabilities described in the roadmap are planned rather than fully implemented.
